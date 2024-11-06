@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Convert Date Context Menu On Selection",
-  "version": "1.0",
-  "description": "Shows a context menu with selected text and sub context menu of timezone converted dates.",
+  "name": "Convert Date Right Click On Selection - Mouse over",
+  "version": "1.0.0",
+  "description": "Shows a context menu for selected text input and sub context menu of timezone converted dates.",
   "permissions": ["contextMenus", "scripting", "activeTab", "notifications", "clipboardWrite"],
   "background": {
     "service_worker": "background.js"
